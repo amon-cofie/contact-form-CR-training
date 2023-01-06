@@ -5,8 +5,6 @@
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -48,7 +46,7 @@ This project is a mock project built for trial review process of the code review
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://amon-cofie.github.io/contact-form-for-review/)
+- [Live Demo Link](https://amon-cofie.github.io/contact-form-CR-training/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,12 +69,12 @@ Clone this repository to your desired folder:
 
 ```
   cd my-folder
-  git clone https://github.com/amon-cofie/contact-form-for-review.git
+  git clone https://github.com/amon-cofie/contact-form-CR-training.git
 ```
 
 ### Install
 
-Install this project with:
+Install dependencies in this project with:
 
 ```
   cd my-project
@@ -103,11 +101,9 @@ You run this project in you browser with live server of open the index.html file
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/amon-cofie/contact-form-for-review/issues).
+Feel free to check the [issues page](https://github.com/amon-cofie/contact-form-CR-training/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
